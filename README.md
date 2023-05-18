@@ -17,7 +17,7 @@ O desafio desse projeto consiste na criação de uma landing page simples trabal
 
 <br>
 
-Quer conferir como ficou a landing page SpaceCream? 
+Quer conferir como ficou a página? 
 
 [Visite o projeto online](https://eltonprado.github.io/Projeto08_Responsividade/)
 
