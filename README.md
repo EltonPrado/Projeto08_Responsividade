@@ -11,8 +11,8 @@ O desafio desse projeto consiste na criação de uma landing page simples trabal
 <br>
 
 <p>
-  <img alt="imagem do projeto grid com animação" src=".github/desktop.jpg" width="83%">
-  <img alt="imagem projeto grid com animação" src=".github/mobile.jpg" width="14%">
+  <img alt="imagem do projeto de responsividade" src=".github/desktop.jpg" width="83%">
+  <img alt="imagem projeto de responsividade" src=".github/mobile.jpg" width="14%">
 </p>
 
 <br>
